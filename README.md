@@ -1,16 +1,16 @@
 [Projeto - Aprendendo a escrever um README]  (projeto---aprendendo-a-escrever-um-readme) 
 
-[#descri%C3%A7%C3%A3o]   
+[Descrição](#descri%C3%A7%C3%A3o)   
 
-[#introdu%C3%A7%C3%A3o]   
+[Introdução](#introdu%C3%A7%C3%A3o)   
 
-[#funcionalidades]   
+[Funcionalidades](#funcionalidades)   
 
-[#tecnol%C3%B3gias-utilizadas]   
+[Tenólogias utilizadas](#tecnol%C3%B3gias-utilizadas)   
 
-[#fontes-consultadas]  
+[Fontes consultadas](#fontes-consultadas)  
 
-[autores]  
+[autores](#autores)  
 # Projeto - Aprendendo a escrever um README 
 
 ![image info](_img/coverpage.png)
