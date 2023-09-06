@@ -16,6 +16,12 @@
 ![image info](_img/coverpage.png)
 ## Descrição:
 
+    É um site cujo o objectivo é construir páginas iniciais simples e bonitas.
+
+<h4 align="center">
+    :construction: 🚧 Projeto em construção 🚧 :construction:
+</h4>
+
 ## Introdução:
 
 ## Funcionalidades:
