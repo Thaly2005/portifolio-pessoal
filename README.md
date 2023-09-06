@@ -44,4 +44,8 @@
    ![image info](_img/css.png)
 ## Fontes consultadas:
 
+Bookstrap V5.0
+
 ## Autores:
+
+    Thalyta das Neves Ferreira 2A 
