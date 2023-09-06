@@ -1,14 +1,14 @@
 [Projeto - Aprendendo a escrever um README]  (projeto---aprendendo-a-escrever-um-readme) 
 
-[descri%C3%A7%C3%A3o]   
+[#descri%C3%A7%C3%A3o]   
 
-[introdu%C3%A7%C3%A3o]   
+[#introdu%C3%A7%C3%A3o]   
 
-[funcionalidades]   
+[#funcionalidades]   
 
-[tecnol%C3%B3gias-utilizadas]   
+[#tecnol%C3%B3gias-utilizadas]   
 
-[fontes-consultadas]  
+[#fontes-consultadas]  
 
 [autores]  
 # Projeto - Aprendendo a escrever um README 
