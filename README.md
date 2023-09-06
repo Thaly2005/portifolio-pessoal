@@ -36,6 +36,9 @@
 
 ## Tecnológias utilizadas:
 
+    As tecnólogias utilizadas para a criação foram..
+           HTML                                CSS
+![image info](_img/html.png)     ![image info](_img/css.png)
 ## Fontes consultadas:
 
 ## Autores:
