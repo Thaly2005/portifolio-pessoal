@@ -37,8 +37,11 @@
 ## Tecnológias utilizadas:
 
     As tecnólogias utilizadas para a criação foram..
-           HTML                                CSS
-![image info](_img/html.png)     ![image info](_img/css.png)
+    <h4 color="orange>HTML</h4>       
+![image info](_img/html.png)  
+
+     <h4 color="purple">CSS</h4>
+   ![image info](_img/css.png)
 ## Fontes consultadas:
 
 ## Autores:
