@@ -26,6 +26,12 @@
 
 ## Funcionalidades:
 
+- `Saber mais`: botão saber mais é utilizado para saber mais como funciona o site e saber como prosseguir.
+- `Início`: botão início envia você de volta a primeira tela, a tela inícial do site.
+- `Recursos`:o botão recursos é utilizado para saber os recursos que o site oferece para os seus usuários.
+- `Contato`: botão de contato serve para o usuário entrar em contato com as pessoas responsáveis pelo site, caso o usuário tenha alguma dúvida ou algum problema a ser relato e consertado, caso seja um problema e não uma simples dúvida.
+
+
 ## Tecnológias utilizadas:
 
 ## Fontes consultadas:
