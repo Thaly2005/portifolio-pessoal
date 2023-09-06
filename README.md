@@ -22,7 +22,9 @@
     :construction: 🚧 Projeto em construção 🚧 :construction:
 </h4>
 
-## Introdução:
+## Introdução: 
+
+    O site Modelo de Capa tem o objectivo de contruir páginas iníciais simples e bonitas. O site ainda está em construção 🚧. O site possui 4 funcionabilidades,cque são o 'Saíba mais', 'Início', 'Recursos' e 'Contato. Cuja as descrições estão sendo fornecidas no Indíce de funcionalidades do site.
 
 ## Funcionalidades:
 
