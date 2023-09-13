@@ -13,7 +13,6 @@
 [autores](#autores)  
 # Projeto - Aprendendo a escrever um README 
 
-![image info](_img/coverpage.png)
 ## Descrição:
 
     É um site cujo o objectivo é construir páginas iniciais simples e bonitas.
