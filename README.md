@@ -55,7 +55,7 @@
 ## Fontes consultadas:
 
 Alura = https://www.alura.com.br/
-Bootstrap = https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
 
 ## Autores:
 
