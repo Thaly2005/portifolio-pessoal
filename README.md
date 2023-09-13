@@ -42,7 +42,7 @@
 
     As tecnólogias utilizadas para a criação foram..
     HTML      
-![image info](_img/html.png)  
+![image info](_img/html.png)
 
     CSS
    ![image info](_img/css.png)
