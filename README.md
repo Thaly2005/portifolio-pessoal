@@ -51,10 +51,21 @@
 ![image info](_img/html.png)
 
     CSS
-   ![image info](_img/css.png)
+   <img src="_img/css.png" width="30%">
+
+   GitHub
+
+   <img src="_img/github.png" width="30%">
+
+   Visual Studio Code
+
+   <img src="_img/vscode.png">
+
 ## Fontes consultadas:
 
-Alura = https://www.alura.com.br/
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+
+[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
 
 ## Autores:
