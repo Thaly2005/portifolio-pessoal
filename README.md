@@ -54,7 +54,8 @@
    ![image info](_img/css.png)
 ## Fontes consultadas:
 
-Alura =
+Alura = https://www.alura.com.br/
+Bootstrap = https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## Autores:
 
