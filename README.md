@@ -15,7 +15,7 @@
 
 ## Descrição:
 
-    É um site cujo o objectivo é construir páginas iniciais simples e bonitas.
+É um site cujo o objectivo é construir páginas iniciais simples e bonitas.
 
 <h4 align="center">
     :construction: 🚧 Projeto em construção 🚧 :construction:
@@ -23,21 +23,21 @@
 
 ## Introdução: 
 
-    O site Modelo de Capa tem o objectivo de contruir páginas iníciais simples e bonitas. O site ainda está em construção 🚧. O site possui 4 funcionabilidades,cque são o 'Saíba mais', 'Início', 'Recursos' e 'Contato. Cuja as descrições estão sendo fornecidas no Indíce de funcionalidades do site.
+O site Modelo de Capa tem o objectivo de contruir páginas iníciais simples e bonitas. O site ainda está em construção 🚧. O site possui 4 funcionabilidades,cque são o 'Saíba mais', 'Início', 'Recursos' e 'Contato. Cuja as descrições estão sendo fornecidas no Indíce de funcionalidades do site.
 
 ## Funcionalidades:
 
 - `Saber mais`: botão saber mais é utilizado para saber mais como funciona o site e saber como prosseguir.
 
- ![image info](_img/sabermais.png)
+ <img src="_img/sabermais.png" width="40%">
 
 - `Início`: botão início envia você de volta a primeira tela, a tela inícial do site.
 
- ![image info](_img/Início.png)
+ <img src="_img/Início.png" width="40%">>
 
 - `Recursos`:o botão recursos é utilizado para saber os recursos que o site oferece para os seus usuários.
 
- ![image info](_img/recursos.png)
+ <img src="_img/recursos.png" width="40%">>
 
 - `Contato`: botão de contato serve para o usuário entrar em contato com as pessoas responsáveis pelo site, caso o usuário tenha alguma dúvida ou algum problema a ser relato e consertado, caso seja um problema e não uma simples dúvida.
 
@@ -46,20 +46,23 @@
 
 ## Tecnológias utilizadas:
 
-    As tecnólogias utilizadas para a criação foram..
-    HTML      
-![image info](_img/html.png)
+As tecnólogias utilizadas para a criação foram..
 
-    CSS
-   <img src="_img/css.png" width="30%">
+HTML
 
-   GitHub
+<img src="_img/html.png" width="30%">
 
-   <img src="_img/github.png" width="30%">
+CSS
 
-   Visual Studio Code
+<img src="_img/css.png" width="30%">
 
-   <img src="_img/vscode.png">
+GitHub
+
+<img src="_img/github.png" width="30%">
+
+Visual Studio Code
+
+<img src="_img/vscode.png" width="30%">
 
 ## Fontes consultadas:
 
